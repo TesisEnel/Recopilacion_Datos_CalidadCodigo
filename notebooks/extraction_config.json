@@ -1,0 +1,31 @@
+{
+  "ultima_extraccion": "2025-08-03 18:07:53",
+  "total_students": 60,
+  "projects_found": 120,
+  "metrics_extracted": 120,
+  "extraction_failures": 0,
+  "metrics_configured": [
+    "bugs",
+    "vulnerabilities",
+    "security_hotspots",
+    "code_smells",
+    "technical_debt",
+    "sqale_rating",
+    "complexity",
+    "cognitive_complexity",
+    "coverage",
+    "comment_lines_density",
+    "duplicated_lines_density",
+    "ncloc",
+    "reliability_rating",
+    "security_rating",
+    "open_issues"
+  ],
+  "batch_size": 3,
+  "delay_between_batches": 2.0,
+  "archivos_generados": {
+    "dataset_combinado": "Estudiantes_2023-2024_con_metricas_sonarcloud.csv",
+    "metricas_raw": "metricas_sonarcloud_raw.csv",
+    "configuracion": "extraction_config.json"
+  }
+}
