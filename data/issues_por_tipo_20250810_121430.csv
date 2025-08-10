@@ -1,0 +1,201 @@
+﻿student_id,nombre,assignment,type,count
+Student_0,Aaron Eliezer Hernández García,AP1,BUG,8
+Student_0,Aaron Eliezer Hernández García,AP1,CODE_SMELL,239
+Student_0,Aaron Eliezer Hernández García,AP1,VULNERABILITY,2
+Student_0,Aaron Eliezer Hernández García,AP2,BUG,2
+Student_0,Aaron Eliezer Hernández García,AP2,CODE_SMELL,238
+Student_0,Aaron Eliezer Hernández García,AP2,VULNERABILITY,1
+Student_1,Abraham El Hage Jreij,AP1,CODE_SMELL,47
+Student_1,Abraham El Hage Jreij,AP2,CODE_SMELL,37
+Student_10,Carlos Manuel Custodio Then,AP1,BUG,1
+Student_10,Carlos Manuel Custodio Then,AP1,CODE_SMELL,40
+Student_10,Carlos Manuel Custodio Then,AP2,CODE_SMELL,160
+Student_10,Carlos Manuel Custodio Then,AP2,VULNERABILITY,1
+Student_11,Cesar Jose Reynoso Martinez,AP1,BUG,22
+Student_11,Cesar Jose Reynoso Martinez,AP1,CODE_SMELL,263
+Student_11,Cesar Jose Reynoso Martinez,AP2,CODE_SMELL,59
+Student_12,Cristopher Marte Blanco,AP1,BUG,1
+Student_12,Cristopher Marte Blanco,AP1,CODE_SMELL,26
+Student_12,Cristopher Marte Blanco,AP1,VULNERABILITY,1
+Student_12,Cristopher Marte Blanco,AP2,CODE_SMELL,117
+Student_13,David Otoniel Rosario Serrano,AP1,CODE_SMELL,80
+Student_13,David Otoniel Rosario Serrano,AP2,CODE_SMELL,66
+Student_14,Delfry Paulino,AP1,CODE_SMELL,24
+Student_14,Delfry Paulino,AP2,CODE_SMELL,42
+Student_15,Eddy Samil Capellan Mena,AP1,BUG,1
+Student_15,Eddy Samil Capellan Mena,AP1,CODE_SMELL,31
+Student_15,Eddy Samil Capellan Mena,AP1,VULNERABILITY,1
+Student_15,Eddy Samil Capellan Mena,AP2,BUG,1
+Student_15,Eddy Samil Capellan Mena,AP2,CODE_SMELL,382
+Student_16,Eliezer terrero rojas,AP1,CODE_SMELL,40
+Student_16,Eliezer terrero rojas,AP1,VULNERABILITY,1
+Student_16,Eliezer terrero rojas,AP2,CODE_SMELL,43
+Student_17,Emill Daniel García Castellanos,AP1,BUG,13
+Student_17,Emill Daniel García Castellanos,AP1,CODE_SMELL,36
+Student_17,Emill Daniel García Castellanos,AP2,CODE_SMELL,61
+Student_18,Freimy De Jesus Hidalgo Gonzalez,AP1,BUG,5
+Student_18,Freimy De Jesus Hidalgo Gonzalez,AP1,CODE_SMELL,14
+Student_18,Freimy De Jesus Hidalgo Gonzalez,AP1,VULNERABILITY,1
+Student_18,Freimy De Jesus Hidalgo Gonzalez,AP2,BUG,5
+Student_18,Freimy De Jesus Hidalgo Gonzalez,AP2,CODE_SMELL,483
+Student_19,Geremy O. de los Santos Santiago,AP1,CODE_SMELL,20
+Student_19,Geremy O. de los Santos Santiago,AP1,VULNERABILITY,1
+Student_19,Geremy O. de los Santos Santiago,AP2,CODE_SMELL,17
+Student_2,Adiel Luis García Rosa,AP1,BUG,1
+Student_2,Adiel Luis García Rosa,AP1,CODE_SMELL,55
+Student_2,Adiel Luis García Rosa,AP2,CODE_SMELL,40
+Student_20,Greilyn Polanco Tejada,AP1,BUG,12
+Student_20,Greilyn Polanco Tejada,AP1,CODE_SMELL,33
+Student_20,Greilyn Polanco Tejada,AP2,CODE_SMELL,21
+Student_21,Henry milagros Rosario Peña,AP1,BUG,2
+Student_21,Henry milagros Rosario Peña,AP1,CODE_SMELL,62
+Student_21,Henry milagros Rosario Peña,AP2,CODE_SMELL,28
+Student_21,Henry milagros Rosario Peña,AP2,VULNERABILITY,1
+Student_22,Isaac Patricio Coste Burgos,AP1,CODE_SMELL,53
+Student_22,Isaac Patricio Coste Burgos,AP1,VULNERABILITY,1
+Student_22,Isaac Patricio Coste Burgos,AP2,BUG,1
+Student_22,Isaac Patricio Coste Burgos,AP2,CODE_SMELL,77
+Student_23,Jairo Camilo,AP1,CODE_SMELL,39
+Student_23,Jairo Camilo,AP2,CODE_SMELL,37
+Student_24,Jasson Levid Tejada Martínez,AP1,BUG,12
+Student_24,Jasson Levid Tejada Martínez,AP1,CODE_SMELL,33
+Student_24,Jasson Levid Tejada Martínez,AP2,CODE_SMELL,21
+Student_25,Jerony Ulises Cruz Fermin,AP1,BUG,31
+Student_25,Jerony Ulises Cruz Fermin,AP1,CODE_SMELL,40
+Student_25,Jerony Ulises Cruz Fermin,AP1,VULNERABILITY,1
+Student_25,Jerony Ulises Cruz Fermin,AP2,BUG,1
+Student_25,Jerony Ulises Cruz Fermin,AP2,CODE_SMELL,251
+Student_26,Jorge Luis Toribio Gil,AP1,BUG,12
+Student_26,Jorge Luis Toribio Gil,AP1,CODE_SMELL,34
+Student_26,Jorge Luis Toribio Gil,AP2,CODE_SMELL,76
+Student_27,José Antonio Ortega Serrano,AP1,CODE_SMELL,80
+Student_27,José Antonio Ortega Serrano,AP2,CODE_SMELL,117
+Student_28,Jose Daniel Rivera Ortega,AP1,BUG,1
+Student_28,Jose Daniel Rivera Ortega,AP1,CODE_SMELL,31
+Student_28,Jose Daniel Rivera Ortega,AP1,VULNERABILITY,1
+Student_28,Jose Daniel Rivera Ortega,AP2,BUG,1
+Student_28,Jose Daniel Rivera Ortega,AP2,CODE_SMELL,382
+Student_29,Jose Manuel Polanco,AP1,CODE_SMELL,27
+Student_29,Jose Manuel Polanco,AP1,VULNERABILITY,1
+Student_29,Jose Manuel Polanco,AP2,BUG,6
+Student_29,Jose Manuel Polanco,AP2,CODE_SMELL,61
+Student_3,Alaina Garcia Salazar,AP1,BUG,1
+Student_3,Alaina Garcia Salazar,AP1,CODE_SMELL,33
+Student_3,Alaina Garcia Salazar,AP1,VULNERABILITY,1
+Student_3,Alaina Garcia Salazar,AP2,BUG,1
+Student_3,Alaina Garcia Salazar,AP2,CODE_SMELL,251
+Student_30,Jose Miguel Bonilla,AP1,BUG,6
+Student_30,Jose Miguel Bonilla,AP1,CODE_SMELL,103
+Student_30,Jose Miguel Bonilla,AP2,CODE_SMELL,19
+Student_31,Joseph Garcia Torres,AP1,BUG,12
+Student_31,Joseph Garcia Torres,AP1,CODE_SMELL,34
+Student_31,Joseph Garcia Torres,AP2,CODE_SMELL,76
+Student_32,Josue Russo Mieses,AP1,BUG,1
+Student_32,Josue Russo Mieses,AP1,CODE_SMELL,86
+Student_32,Josue Russo Mieses,AP1,VULNERABILITY,1
+Student_32,Josue Russo Mieses,AP2,CODE_SMELL,50
+Student_33,Juan Sebastián Suarez Brito,AP1,CODE_SMELL,50
+Student_33,Juan Sebastián Suarez Brito,AP1,VULNERABILITY,1
+Student_33,Juan Sebastián Suarez Brito,AP2,BUG,1
+Student_33,Juan Sebastián Suarez Brito,AP2,CODE_SMELL,72
+Student_34,Julio Cesar Pichardo Barranco,AP1,CODE_SMELL,47
+Student_34,Julio Cesar Pichardo Barranco,AP2,CODE_SMELL,32
+Student_35,Kevin Duran Bruno,AP1,BUG,22
+Student_35,Kevin Duran Bruno,AP1,CODE_SMELL,263
+Student_35,Kevin Duran Bruno,AP2,CODE_SMELL,59
+Student_36,Kissland Keury Baker Rodríguez,AP1,BUG,14
+Student_36,Kissland Keury Baker Rodríguez,AP1,CODE_SMELL,112
+Student_36,Kissland Keury Baker Rodríguez,AP2,CODE_SMELL,42
+Student_37,Lisbeth Ortega peña,AP1,BUG,14
+Student_37,Lisbeth Ortega peña,AP1,CODE_SMELL,54
+Student_37,Lisbeth Ortega peña,AP2,CODE_SMELL,28
+Student_38,Lor Henzo Taveras Reynoso,AP1,CODE_SMELL,21
+Student_38,Lor Henzo Taveras Reynoso,AP1,VULNERABILITY,1
+Student_38,Lor Henzo Taveras Reynoso,AP2,CODE_SMELL,66
+Student_39,Luis Jose Paulino Cabrera,AP1,CODE_SMELL,45
+Student_39,Luis Jose Paulino Cabrera,AP2,CODE_SMELL,8
+Student_4,Albert Luis Delgado Maria,AP1,BUG,14
+Student_4,Albert Luis Delgado Maria,AP1,CODE_SMELL,58
+Student_4,Albert Luis Delgado Maria,AP2,CODE_SMELL,28
+Student_40,Luis Manuel Duarte,AP1,CODE_SMELL,28
+Student_40,Luis Manuel Duarte,AP1,VULNERABILITY,1
+Student_40,Luis Manuel Duarte,AP2,CODE_SMELL,66
+Student_41,Luis Miguel Jérez Cáceres,AP1,BUG,2
+Student_41,Luis Miguel Jérez Cáceres,AP1,CODE_SMELL,13
+Student_41,Luis Miguel Jérez Cáceres,AP1,VULNERABILITY,1
+Student_41,Luis Miguel Jérez Cáceres,AP2,CODE_SMELL,117
+Student_42,Marcos Duran De la Cruz,AP1,CODE_SMELL,50
+Student_42,Marcos Duran De la Cruz,AP1,VULNERABILITY,1
+Student_42,Marcos Duran De la Cruz,AP2,BUG,1
+Student_42,Marcos Duran De la Cruz,AP2,CODE_SMELL,72
+Student_43,Miguel Angel Betances Beato,AP1,CODE_SMELL,27
+Student_43,Miguel Angel Betances Beato,AP1,VULNERABILITY,1
+Student_43,Miguel Angel Betances Beato,AP2,CODE_SMELL,18
+Student_44,NATHALY GORIS ESPINO,AP1,BUG,14
+Student_44,NATHALY GORIS ESPINO,AP1,CODE_SMELL,73
+Student_44,NATHALY GORIS ESPINO,AP2,CODE_SMELL,24
+Student_45,Pedro Vladimir Guzmán Salazar,AP1,CODE_SMELL,23
+Student_45,Pedro Vladimir Guzmán Salazar,AP1,VULNERABILITY,1
+Student_45,Pedro Vladimir Guzmán Salazar,AP2,CODE_SMELL,37
+Student_46,Randy Fabián Belliard,AP1,CODE_SMELL,21
+Student_46,Randy Fabián Belliard,AP1,VULNERABILITY,1
+Student_46,Randy Fabián Belliard,AP2,CODE_SMELL,39
+Student_47,Reyphill Núñez Duarte,AP1,BUG,1
+Student_47,Reyphill Núñez Duarte,AP1,CODE_SMELL,33
+Student_47,Reyphill Núñez Duarte,AP1,VULNERABILITY,1
+Student_47,Reyphill Núñez Duarte,AP2,BUG,2
+Student_47,Reyphill Núñez Duarte,AP2,CODE_SMELL,70
+Student_48,Robelin Isaac,AP1,CODE_SMELL,23
+Student_48,Robelin Isaac,AP1,VULNERABILITY,1
+Student_48,Robelin Isaac,AP2,BUG,1
+Student_48,Robelin Isaac,AP2,CODE_SMELL,77
+Student_49,ROBERT DAMIAN TEJADA ORTIZ,AP1,CODE_SMELL,72
+Student_49,ROBERT DAMIAN TEJADA ORTIZ,AP2,CODE_SMELL,72
+Student_5,Alexander Suárez,AP1,BUG,1
+Student_5,Alexander Suárez,AP1,CODE_SMELL,27
+Student_5,Alexander Suárez,AP2,CODE_SMELL,84
+Student_50,Ronell Jesús Rosario López,AP1,CODE_SMELL,37
+Student_50,Ronell Jesús Rosario López,AP2,CODE_SMELL,28
+Student_51,Ruth Betsaida,AP1,BUG,8
+Student_51,Ruth Betsaida,AP1,CODE_SMELL,239
+Student_51,Ruth Betsaida,AP1,VULNERABILITY,2
+Student_51,Ruth Betsaida,AP2,BUG,2
+Student_51,Ruth Betsaida,AP2,CODE_SMELL,238
+Student_51,Ruth Betsaida,AP2,VULNERABILITY,1
+Student_52,Samir Ernesto Castillo Paredes,AP1,CODE_SMELL,45
+Student_52,Samir Ernesto Castillo Paredes,AP2,CODE_SMELL,28
+Student_53,Samuel Antonio Javier Pantaleón,AP1,BUG,1
+Student_53,Samuel Antonio Javier Pantaleón,AP1,CODE_SMELL,55
+Student_53,Samuel Antonio Javier Pantaleón,AP2,CODE_SMELL,103
+Student_54,Steven Yesandy Candelario Fernández,AP1,CODE_SMELL,53
+Student_54,Steven Yesandy Candelario Fernández,AP1,VULNERABILITY,1
+Student_54,Steven Yesandy Candelario Fernández,AP2,CODE_SMELL,42
+Student_55,Wilber Galvez Galvez,AP1,BUG,16
+Student_55,Wilber Galvez Galvez,AP1,CODE_SMELL,44
+Student_55,Wilber Galvez Galvez,AP2,CODE_SMELL,36
+Student_56,Yohualkis David Tejada Escolástico,AP1,CODE_SMELL,55
+Student_56,Yohualkis David Tejada Escolástico,AP1,VULNERABILITY,2
+Student_56,Yohualkis David Tejada Escolástico,AP2,CODE_SMELL,51
+Student_57,Yokaira Taveras Hernández,AP1,BUG,1
+Student_57,Yokaira Taveras Hernández,AP1,CODE_SMELL,27
+Student_57,Yokaira Taveras Hernández,AP2,CODE_SMELL,62
+Student_58,Yudelka Elister Guillen,AP1,CODE_SMELL,24
+Student_58,Yudelka Elister Guillen,AP2,CODE_SMELL,42
+Student_59,Frailyn Garcia Garcia,AP1,CODE_SMELL,55
+Student_59,Frailyn Garcia Garcia,AP1,VULNERABILITY,2
+Student_59,Frailyn Garcia Garcia,AP2,BUG,5
+Student_59,Frailyn Garcia Garcia,AP2,CODE_SMELL,483
+Student_6,Alma Betsaida Rosa,AP1,BUG,1
+Student_6,Alma Betsaida Rosa,AP1,CODE_SMELL,40
+Student_6,Alma Betsaida Rosa,AP2,CODE_SMELL,160
+Student_6,Alma Betsaida Rosa,AP2,VULNERABILITY,1
+Student_7,Angel Luis González Delgado,AP1,BUG,1
+Student_7,Angel Luis González Delgado,AP1,CODE_SMELL,26
+Student_7,Angel Luis González Delgado,AP1,VULNERABILITY,1
+Student_7,Angel Luis González Delgado,AP2,CODE_SMELL,117
+Student_8,Braylin Vasquez Guzman,AP1,CODE_SMELL,40
+Student_8,Braylin Vasquez Guzman,AP1,VULNERABILITY,1
+Student_8,Braylin Vasquez Guzman,AP2,CODE_SMELL,43
+Student_9,Bryan Smith Ovalles Burgos,AP1,CODE_SMELL,28
+Student_9,Bryan Smith Ovalles Burgos,AP1,VULNERABILITY,1
+Student_9,Bryan Smith Ovalles Burgos,AP2,CODE_SMELL,117

@@ -1,0 +1,18 @@
+﻿categoria,metrica,valor,descripcion
+General,Total Issues,9504.0,Número total de issues extraídos
+General,Estudiantes Únicos,60.0,Número de estudiantes con issues
+General,Proyectos Únicos,78.0,Número de proyectos con issues
+AP1,Total Issues,3696.0,Issues en AP1
+AP1,Proyectos,39.0,Proyectos con issues en AP1
+AP1,Promedio Issues/Proyecto,94.77,Promedio de issues por proyecto en AP1
+AP2,Total Issues,5808.0,Issues en AP2
+AP2,Proyectos,40.0,Proyectos con issues en AP2
+AP2,Promedio Issues/Proyecto,145.2,Promedio de issues por proyecto en AP2
+Tipos,CODE_SMELL,9184.0,Issues de tipo CODE_SMELL
+Tipos,BUG,282.0,Issues de tipo BUG
+Tipos,VULNERABILITY,38.0,Issues de tipo VULNERABILITY
+Severidad,MINOR,4615.0,Issues con severidad MINOR
+Severidad,MAJOR,3716.0,Issues con severidad MAJOR
+Severidad,CRITICAL,969.0,Issues con severidad CRITICAL
+Severidad,INFO,163.0,Issues con severidad INFO
+Severidad,BLOCKER,41.0,Issues con severidad BLOCKER

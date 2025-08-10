@@ -1,0 +1,450 @@
+﻿student_id,nombre,assignment,severity,count
+Student_0,Aaron Eliezer Hernández García,AP1,BLOCKER,2
+Student_0,Aaron Eliezer Hernández García,AP1,CRITICAL,5
+Student_0,Aaron Eliezer Hernández García,AP1,INFO,1
+Student_0,Aaron Eliezer Hernández García,AP1,MAJOR,120
+Student_0,Aaron Eliezer Hernández García,AP1,MINOR,121
+Student_0,Aaron Eliezer Hernández García,AP2,CRITICAL,58
+Student_0,Aaron Eliezer Hernández García,AP2,MAJOR,41
+Student_0,Aaron Eliezer Hernández García,AP2,MINOR,142
+Student_1,Abraham El Hage Jreij,AP1,CRITICAL,3
+Student_1,Abraham El Hage Jreij,AP1,MAJOR,19
+Student_1,Abraham El Hage Jreij,AP1,MINOR,25
+Student_1,Abraham El Hage Jreij,AP2,CRITICAL,6
+Student_1,Abraham El Hage Jreij,AP2,INFO,1
+Student_1,Abraham El Hage Jreij,AP2,MAJOR,21
+Student_1,Abraham El Hage Jreij,AP2,MINOR,9
+Student_10,Carlos Manuel Custodio Then,AP1,CRITICAL,3
+Student_10,Carlos Manuel Custodio Then,AP1,MAJOR,16
+Student_10,Carlos Manuel Custodio Then,AP1,MINOR,22
+Student_10,Carlos Manuel Custodio Then,AP2,BLOCKER,1
+Student_10,Carlos Manuel Custodio Then,AP2,CRITICAL,30
+Student_10,Carlos Manuel Custodio Then,AP2,INFO,1
+Student_10,Carlos Manuel Custodio Then,AP2,MAJOR,60
+Student_10,Carlos Manuel Custodio Then,AP2,MINOR,69
+Student_11,Cesar Jose Reynoso Martinez,AP1,BLOCKER,1
+Student_11,Cesar Jose Reynoso Martinez,AP1,CRITICAL,21
+Student_11,Cesar Jose Reynoso Martinez,AP1,INFO,3
+Student_11,Cesar Jose Reynoso Martinez,AP1,MAJOR,209
+Student_11,Cesar Jose Reynoso Martinez,AP1,MINOR,51
+Student_11,Cesar Jose Reynoso Martinez,AP2,CRITICAL,4
+Student_11,Cesar Jose Reynoso Martinez,AP2,INFO,1
+Student_11,Cesar Jose Reynoso Martinez,AP2,MAJOR,7
+Student_11,Cesar Jose Reynoso Martinez,AP2,MINOR,47
+Student_12,Cristopher Marte Blanco,AP1,BLOCKER,1
+Student_12,Cristopher Marte Blanco,AP1,CRITICAL,4
+Student_12,Cristopher Marte Blanco,AP1,MAJOR,6
+Student_12,Cristopher Marte Blanco,AP1,MINOR,17
+Student_12,Cristopher Marte Blanco,AP2,CRITICAL,13
+Student_12,Cristopher Marte Blanco,AP2,INFO,1
+Student_12,Cristopher Marte Blanco,AP2,MAJOR,22
+Student_12,Cristopher Marte Blanco,AP2,MINOR,81
+Student_13,David Otoniel Rosario Serrano,AP1,CRITICAL,3
+Student_13,David Otoniel Rosario Serrano,AP1,MAJOR,23
+Student_13,David Otoniel Rosario Serrano,AP1,MINOR,54
+Student_13,David Otoniel Rosario Serrano,AP2,CRITICAL,2
+Student_13,David Otoniel Rosario Serrano,AP2,INFO,1
+Student_13,David Otoniel Rosario Serrano,AP2,MAJOR,34
+Student_13,David Otoniel Rosario Serrano,AP2,MINOR,29
+Student_14,Delfry Paulino,AP1,CRITICAL,3
+Student_14,Delfry Paulino,AP1,MAJOR,5
+Student_14,Delfry Paulino,AP1,MINOR,16
+Student_14,Delfry Paulino,AP2,CRITICAL,8
+Student_14,Delfry Paulino,AP2,INFO,1
+Student_14,Delfry Paulino,AP2,MAJOR,16
+Student_14,Delfry Paulino,AP2,MINOR,17
+Student_15,Eddy Samil Capellan Mena,AP1,BLOCKER,1
+Student_15,Eddy Samil Capellan Mena,AP1,CRITICAL,1
+Student_15,Eddy Samil Capellan Mena,AP1,MAJOR,11
+Student_15,Eddy Samil Capellan Mena,AP1,MINOR,20
+Student_15,Eddy Samil Capellan Mena,AP2,CRITICAL,76
+Student_15,Eddy Samil Capellan Mena,AP2,INFO,7
+Student_15,Eddy Samil Capellan Mena,AP2,MAJOR,164
+Student_15,Eddy Samil Capellan Mena,AP2,MINOR,136
+Student_16,Eliezer terrero rojas,AP1,BLOCKER,2
+Student_16,Eliezer terrero rojas,AP1,MAJOR,9
+Student_16,Eliezer terrero rojas,AP1,MINOR,30
+Student_16,Eliezer terrero rojas,AP2,CRITICAL,9
+Student_16,Eliezer terrero rojas,AP2,INFO,1
+Student_16,Eliezer terrero rojas,AP2,MAJOR,16
+Student_16,Eliezer terrero rojas,AP2,MINOR,17
+Student_17,Emill Daniel García Castellanos,AP1,CRITICAL,4
+Student_17,Emill Daniel García Castellanos,AP1,MAJOR,34
+Student_17,Emill Daniel García Castellanos,AP1,MINOR,11
+Student_17,Emill Daniel García Castellanos,AP2,CRITICAL,3
+Student_17,Emill Daniel García Castellanos,AP2,INFO,5
+Student_17,Emill Daniel García Castellanos,AP2,MAJOR,9
+Student_17,Emill Daniel García Castellanos,AP2,MINOR,44
+Student_18,Freimy De Jesus Hidalgo Gonzalez,AP1,BLOCKER,1
+Student_18,Freimy De Jesus Hidalgo Gonzalez,AP1,MAJOR,7
+Student_18,Freimy De Jesus Hidalgo Gonzalez,AP1,MINOR,12
+Student_18,Freimy De Jesus Hidalgo Gonzalez,AP2,CRITICAL,30
+Student_18,Freimy De Jesus Hidalgo Gonzalez,AP2,INFO,2
+Student_18,Freimy De Jesus Hidalgo Gonzalez,AP2,MAJOR,193
+Student_18,Freimy De Jesus Hidalgo Gonzalez,AP2,MINOR,263
+Student_19,Geremy O. de los Santos Santiago,AP1,BLOCKER,1
+Student_19,Geremy O. de los Santos Santiago,AP1,MAJOR,14
+Student_19,Geremy O. de los Santos Santiago,AP1,MINOR,6
+Student_19,Geremy O. de los Santos Santiago,AP2,INFO,2
+Student_19,Geremy O. de los Santos Santiago,AP2,MAJOR,3
+Student_19,Geremy O. de los Santos Santiago,AP2,MINOR,12
+Student_2,Adiel Luis García Rosa,AP1,BLOCKER,1
+Student_2,Adiel Luis García Rosa,AP1,MAJOR,47
+Student_2,Adiel Luis García Rosa,AP1,MINOR,8
+Student_2,Adiel Luis García Rosa,AP2,CRITICAL,11
+Student_2,Adiel Luis García Rosa,AP2,INFO,1
+Student_2,Adiel Luis García Rosa,AP2,MAJOR,17
+Student_2,Adiel Luis García Rosa,AP2,MINOR,11
+Student_20,Greilyn Polanco Tejada,AP1,CRITICAL,1
+Student_20,Greilyn Polanco Tejada,AP1,MAJOR,31
+Student_20,Greilyn Polanco Tejada,AP1,MINOR,13
+Student_20,Greilyn Polanco Tejada,AP2,CRITICAL,7
+Student_20,Greilyn Polanco Tejada,AP2,INFO,1
+Student_20,Greilyn Polanco Tejada,AP2,MAJOR,9
+Student_20,Greilyn Polanco Tejada,AP2,MINOR,4
+Student_21,Henry milagros Rosario Peña,AP1,CRITICAL,3
+Student_21,Henry milagros Rosario Peña,AP1,MAJOR,22
+Student_21,Henry milagros Rosario Peña,AP1,MINOR,39
+Student_21,Henry milagros Rosario Peña,AP2,INFO,1
+Student_21,Henry milagros Rosario Peña,AP2,MAJOR,22
+Student_21,Henry milagros Rosario Peña,AP2,MINOR,6
+Student_22,Isaac Patricio Coste Burgos,AP1,BLOCKER,1
+Student_22,Isaac Patricio Coste Burgos,AP1,CRITICAL,5
+Student_22,Isaac Patricio Coste Burgos,AP1,MAJOR,6
+Student_22,Isaac Patricio Coste Burgos,AP1,MINOR,42
+Student_22,Isaac Patricio Coste Burgos,AP2,CRITICAL,4
+Student_22,Isaac Patricio Coste Burgos,AP2,INFO,1
+Student_22,Isaac Patricio Coste Burgos,AP2,MAJOR,42
+Student_22,Isaac Patricio Coste Burgos,AP2,MINOR,31
+Student_23,Jairo Camilo,AP1,MAJOR,22
+Student_23,Jairo Camilo,AP1,MINOR,17
+Student_23,Jairo Camilo,AP2,CRITICAL,1
+Student_23,Jairo Camilo,AP2,INFO,1
+Student_23,Jairo Camilo,AP2,MAJOR,23
+Student_23,Jairo Camilo,AP2,MINOR,12
+Student_24,Jasson Levid Tejada Martínez,AP1,CRITICAL,1
+Student_24,Jasson Levid Tejada Martínez,AP1,MAJOR,31
+Student_24,Jasson Levid Tejada Martínez,AP1,MINOR,13
+Student_24,Jasson Levid Tejada Martínez,AP2,CRITICAL,7
+Student_24,Jasson Levid Tejada Martínez,AP2,INFO,1
+Student_24,Jasson Levid Tejada Martínez,AP2,MAJOR,9
+Student_24,Jasson Levid Tejada Martínez,AP2,MINOR,4
+Student_25,Jerony Ulises Cruz Fermin,AP1,BLOCKER,1
+Student_25,Jerony Ulises Cruz Fermin,AP1,CRITICAL,5
+Student_25,Jerony Ulises Cruz Fermin,AP1,MAJOR,44
+Student_25,Jerony Ulises Cruz Fermin,AP1,MINOR,22
+Student_25,Jerony Ulises Cruz Fermin,AP2,CRITICAL,30
+Student_25,Jerony Ulises Cruz Fermin,AP2,INFO,3
+Student_25,Jerony Ulises Cruz Fermin,AP2,MAJOR,111
+Student_25,Jerony Ulises Cruz Fermin,AP2,MINOR,108
+Student_26,Jorge Luis Toribio Gil,AP1,CRITICAL,1
+Student_26,Jorge Luis Toribio Gil,AP1,INFO,10
+Student_26,Jorge Luis Toribio Gil,AP1,MAJOR,24
+Student_26,Jorge Luis Toribio Gil,AP1,MINOR,11
+Student_26,Jorge Luis Toribio Gil,AP2,CRITICAL,4
+Student_26,Jorge Luis Toribio Gil,AP2,INFO,1
+Student_26,Jorge Luis Toribio Gil,AP2,MAJOR,2
+Student_26,Jorge Luis Toribio Gil,AP2,MINOR,69
+Student_27,José Antonio Ortega Serrano,AP1,CRITICAL,3
+Student_27,José Antonio Ortega Serrano,AP1,MAJOR,23
+Student_27,José Antonio Ortega Serrano,AP1,MINOR,54
+Student_27,José Antonio Ortega Serrano,AP2,CRITICAL,13
+Student_27,José Antonio Ortega Serrano,AP2,INFO,1
+Student_27,José Antonio Ortega Serrano,AP2,MAJOR,22
+Student_27,José Antonio Ortega Serrano,AP2,MINOR,81
+Student_28,Jose Daniel Rivera Ortega,AP1,BLOCKER,1
+Student_28,Jose Daniel Rivera Ortega,AP1,CRITICAL,1
+Student_28,Jose Daniel Rivera Ortega,AP1,MAJOR,11
+Student_28,Jose Daniel Rivera Ortega,AP1,MINOR,20
+Student_28,Jose Daniel Rivera Ortega,AP2,CRITICAL,76
+Student_28,Jose Daniel Rivera Ortega,AP2,INFO,7
+Student_28,Jose Daniel Rivera Ortega,AP2,MAJOR,164
+Student_28,Jose Daniel Rivera Ortega,AP2,MINOR,136
+Student_29,Jose Manuel Polanco,AP1,BLOCKER,1
+Student_29,Jose Manuel Polanco,AP1,CRITICAL,2
+Student_29,Jose Manuel Polanco,AP1,MAJOR,10
+Student_29,Jose Manuel Polanco,AP1,MINOR,15
+Student_29,Jose Manuel Polanco,AP2,CRITICAL,2
+Student_29,Jose Manuel Polanco,AP2,INFO,1
+Student_29,Jose Manuel Polanco,AP2,MAJOR,14
+Student_29,Jose Manuel Polanco,AP2,MINOR,50
+Student_3,Alaina Garcia Salazar,AP1,BLOCKER,1
+Student_3,Alaina Garcia Salazar,AP1,CRITICAL,1
+Student_3,Alaina Garcia Salazar,AP1,MAJOR,6
+Student_3,Alaina Garcia Salazar,AP1,MINOR,27
+Student_3,Alaina Garcia Salazar,AP2,CRITICAL,30
+Student_3,Alaina Garcia Salazar,AP2,INFO,3
+Student_3,Alaina Garcia Salazar,AP2,MAJOR,111
+Student_3,Alaina Garcia Salazar,AP2,MINOR,108
+Student_30,Jose Miguel Bonilla,AP1,CRITICAL,2
+Student_30,Jose Miguel Bonilla,AP1,MAJOR,87
+Student_30,Jose Miguel Bonilla,AP1,MINOR,20
+Student_30,Jose Miguel Bonilla,AP2,CRITICAL,2
+Student_30,Jose Miguel Bonilla,AP2,INFO,2
+Student_30,Jose Miguel Bonilla,AP2,MAJOR,3
+Student_30,Jose Miguel Bonilla,AP2,MINOR,12
+Student_31,Joseph Garcia Torres,AP1,CRITICAL,1
+Student_31,Joseph Garcia Torres,AP1,INFO,10
+Student_31,Joseph Garcia Torres,AP1,MAJOR,24
+Student_31,Joseph Garcia Torres,AP1,MINOR,11
+Student_31,Joseph Garcia Torres,AP2,CRITICAL,4
+Student_31,Joseph Garcia Torres,AP2,INFO,1
+Student_31,Joseph Garcia Torres,AP2,MAJOR,2
+Student_31,Joseph Garcia Torres,AP2,MINOR,69
+Student_32,Josue Russo Mieses,AP1,BLOCKER,1
+Student_32,Josue Russo Mieses,AP1,CRITICAL,1
+Student_32,Josue Russo Mieses,AP1,MAJOR,71
+Student_32,Josue Russo Mieses,AP1,MINOR,15
+Student_32,Josue Russo Mieses,AP2,CRITICAL,5
+Student_32,Josue Russo Mieses,AP2,INFO,1
+Student_32,Josue Russo Mieses,AP2,MAJOR,9
+Student_32,Josue Russo Mieses,AP2,MINOR,35
+Student_33,Juan Sebastián Suarez Brito,AP1,BLOCKER,1
+Student_33,Juan Sebastián Suarez Brito,AP1,CRITICAL,1
+Student_33,Juan Sebastián Suarez Brito,AP1,MAJOR,35
+Student_33,Juan Sebastián Suarez Brito,AP1,MINOR,14
+Student_33,Juan Sebastián Suarez Brito,AP2,CRITICAL,22
+Student_33,Juan Sebastián Suarez Brito,AP2,INFO,1
+Student_33,Juan Sebastián Suarez Brito,AP2,MAJOR,37
+Student_33,Juan Sebastián Suarez Brito,AP2,MINOR,13
+Student_34,Julio Cesar Pichardo Barranco,AP1,CRITICAL,3
+Student_34,Julio Cesar Pichardo Barranco,AP1,MAJOR,19
+Student_34,Julio Cesar Pichardo Barranco,AP1,MINOR,25
+Student_34,Julio Cesar Pichardo Barranco,AP2,CRITICAL,7
+Student_34,Julio Cesar Pichardo Barranco,AP2,INFO,2
+Student_34,Julio Cesar Pichardo Barranco,AP2,MAJOR,3
+Student_34,Julio Cesar Pichardo Barranco,AP2,MINOR,20
+Student_35,Kevin Duran Bruno,AP1,BLOCKER,1
+Student_35,Kevin Duran Bruno,AP1,CRITICAL,21
+Student_35,Kevin Duran Bruno,AP1,INFO,3
+Student_35,Kevin Duran Bruno,AP1,MAJOR,209
+Student_35,Kevin Duran Bruno,AP1,MINOR,51
+Student_35,Kevin Duran Bruno,AP2,CRITICAL,4
+Student_35,Kevin Duran Bruno,AP2,INFO,1
+Student_35,Kevin Duran Bruno,AP2,MAJOR,7
+Student_35,Kevin Duran Bruno,AP2,MINOR,47
+Student_36,Kissland Keury Baker Rodríguez,AP1,CRITICAL,2
+Student_36,Kissland Keury Baker Rodríguez,AP1,INFO,10
+Student_36,Kissland Keury Baker Rodríguez,AP1,MAJOR,96
+Student_36,Kissland Keury Baker Rodríguez,AP1,MINOR,18
+Student_36,Kissland Keury Baker Rodríguez,AP2,CRITICAL,2
+Student_36,Kissland Keury Baker Rodríguez,AP2,INFO,1
+Student_36,Kissland Keury Baker Rodríguez,AP2,MAJOR,13
+Student_36,Kissland Keury Baker Rodríguez,AP2,MINOR,26
+Student_37,Lisbeth Ortega peña,AP1,CRITICAL,3
+Student_37,Lisbeth Ortega peña,AP1,INFO,11
+Student_37,Lisbeth Ortega peña,AP1,MAJOR,32
+Student_37,Lisbeth Ortega peña,AP1,MINOR,22
+Student_37,Lisbeth Ortega peña,AP2,CRITICAL,13
+Student_37,Lisbeth Ortega peña,AP2,INFO,3
+Student_37,Lisbeth Ortega peña,AP2,MAJOR,8
+Student_37,Lisbeth Ortega peña,AP2,MINOR,4
+Student_38,Lor Henzo Taveras Reynoso,AP1,BLOCKER,1
+Student_38,Lor Henzo Taveras Reynoso,AP1,CRITICAL,1
+Student_38,Lor Henzo Taveras Reynoso,AP1,MAJOR,3
+Student_38,Lor Henzo Taveras Reynoso,AP1,MINOR,17
+Student_38,Lor Henzo Taveras Reynoso,AP2,CRITICAL,2
+Student_38,Lor Henzo Taveras Reynoso,AP2,INFO,1
+Student_38,Lor Henzo Taveras Reynoso,AP2,MAJOR,34
+Student_38,Lor Henzo Taveras Reynoso,AP2,MINOR,29
+Student_39,Luis Jose Paulino Cabrera,AP1,CRITICAL,2
+Student_39,Luis Jose Paulino Cabrera,AP1,MAJOR,8
+Student_39,Luis Jose Paulino Cabrera,AP1,MINOR,35
+Student_39,Luis Jose Paulino Cabrera,AP2,CRITICAL,1
+Student_39,Luis Jose Paulino Cabrera,AP2,MAJOR,4
+Student_39,Luis Jose Paulino Cabrera,AP2,MINOR,3
+Student_4,Albert Luis Delgado Maria,AP1,CRITICAL,2
+Student_4,Albert Luis Delgado Maria,AP1,MAJOR,28
+Student_4,Albert Luis Delgado Maria,AP1,MINOR,42
+Student_4,Albert Luis Delgado Maria,AP2,CRITICAL,13
+Student_4,Albert Luis Delgado Maria,AP2,INFO,3
+Student_4,Albert Luis Delgado Maria,AP2,MAJOR,8
+Student_4,Albert Luis Delgado Maria,AP2,MINOR,4
+Student_40,Luis Manuel Duarte,AP1,BLOCKER,1
+Student_40,Luis Manuel Duarte,AP1,MAJOR,8
+Student_40,Luis Manuel Duarte,AP1,MINOR,20
+Student_40,Luis Manuel Duarte,AP2,CRITICAL,2
+Student_40,Luis Manuel Duarte,AP2,INFO,1
+Student_40,Luis Manuel Duarte,AP2,MAJOR,34
+Student_40,Luis Manuel Duarte,AP2,MINOR,29
+Student_41,Luis Miguel Jérez Cáceres,AP1,BLOCKER,1
+Student_41,Luis Miguel Jérez Cáceres,AP1,CRITICAL,1
+Student_41,Luis Miguel Jérez Cáceres,AP1,MAJOR,6
+Student_41,Luis Miguel Jérez Cáceres,AP1,MINOR,8
+Student_41,Luis Miguel Jérez Cáceres,AP2,CRITICAL,8
+Student_41,Luis Miguel Jérez Cáceres,AP2,INFO,1
+Student_41,Luis Miguel Jérez Cáceres,AP2,MAJOR,9
+Student_41,Luis Miguel Jérez Cáceres,AP2,MINOR,99
+Student_42,Marcos Duran De la Cruz,AP1,BLOCKER,1
+Student_42,Marcos Duran De la Cruz,AP1,CRITICAL,1
+Student_42,Marcos Duran De la Cruz,AP1,MAJOR,35
+Student_42,Marcos Duran De la Cruz,AP1,MINOR,14
+Student_42,Marcos Duran De la Cruz,AP2,CRITICAL,22
+Student_42,Marcos Duran De la Cruz,AP2,INFO,1
+Student_42,Marcos Duran De la Cruz,AP2,MAJOR,37
+Student_42,Marcos Duran De la Cruz,AP2,MINOR,13
+Student_43,Miguel Angel Betances Beato,AP1,BLOCKER,1
+Student_43,Miguel Angel Betances Beato,AP1,CRITICAL,2
+Student_43,Miguel Angel Betances Beato,AP1,MAJOR,10
+Student_43,Miguel Angel Betances Beato,AP1,MINOR,15
+Student_43,Miguel Angel Betances Beato,AP2,CRITICAL,4
+Student_43,Miguel Angel Betances Beato,AP2,INFO,2
+Student_43,Miguel Angel Betances Beato,AP2,MAJOR,7
+Student_43,Miguel Angel Betances Beato,AP2,MINOR,5
+Student_44,NATHALY GORIS ESPINO,AP1,CRITICAL,8
+Student_44,NATHALY GORIS ESPINO,AP1,INFO,12
+Student_44,NATHALY GORIS ESPINO,AP1,MAJOR,57
+Student_44,NATHALY GORIS ESPINO,AP1,MINOR,10
+Student_44,NATHALY GORIS ESPINO,AP2,CRITICAL,6
+Student_44,NATHALY GORIS ESPINO,AP2,INFO,1
+Student_44,NATHALY GORIS ESPINO,AP2,MAJOR,1
+Student_44,NATHALY GORIS ESPINO,AP2,MINOR,16
+Student_45,Pedro Vladimir Guzmán Salazar,AP1,BLOCKER,1
+Student_45,Pedro Vladimir Guzmán Salazar,AP1,CRITICAL,2
+Student_45,Pedro Vladimir Guzmán Salazar,AP1,MAJOR,4
+Student_45,Pedro Vladimir Guzmán Salazar,AP1,MINOR,17
+Student_45,Pedro Vladimir Guzmán Salazar,AP2,CRITICAL,1
+Student_45,Pedro Vladimir Guzmán Salazar,AP2,INFO,1
+Student_45,Pedro Vladimir Guzmán Salazar,AP2,MAJOR,23
+Student_45,Pedro Vladimir Guzmán Salazar,AP2,MINOR,12
+Student_46,Randy Fabián Belliard,AP1,BLOCKER,1
+Student_46,Randy Fabián Belliard,AP1,CRITICAL,1
+Student_46,Randy Fabián Belliard,AP1,MAJOR,3
+Student_46,Randy Fabián Belliard,AP1,MINOR,17
+Student_46,Randy Fabián Belliard,AP2,INFO,1
+Student_46,Randy Fabián Belliard,AP2,MAJOR,8
+Student_46,Randy Fabián Belliard,AP2,MINOR,30
+Student_47,Reyphill Núñez Duarte,AP1,BLOCKER,1
+Student_47,Reyphill Núñez Duarte,AP1,CRITICAL,1
+Student_47,Reyphill Núñez Duarte,AP1,MAJOR,6
+Student_47,Reyphill Núñez Duarte,AP1,MINOR,27
+Student_47,Reyphill Núñez Duarte,AP2,CRITICAL,15
+Student_47,Reyphill Núñez Duarte,AP2,INFO,3
+Student_47,Reyphill Núñez Duarte,AP2,MAJOR,17
+Student_47,Reyphill Núñez Duarte,AP2,MINOR,37
+Student_48,Robelin Isaac,AP1,BLOCKER,1
+Student_48,Robelin Isaac,AP1,CRITICAL,2
+Student_48,Robelin Isaac,AP1,MAJOR,4
+Student_48,Robelin Isaac,AP1,MINOR,17
+Student_48,Robelin Isaac,AP2,CRITICAL,4
+Student_48,Robelin Isaac,AP2,INFO,1
+Student_48,Robelin Isaac,AP2,MAJOR,42
+Student_48,Robelin Isaac,AP2,MINOR,31
+Student_49,ROBERT DAMIAN TEJADA ORTIZ,AP1,INFO,1
+Student_49,ROBERT DAMIAN TEJADA ORTIZ,AP1,MAJOR,4
+Student_49,ROBERT DAMIAN TEJADA ORTIZ,AP1,MINOR,67
+Student_49,ROBERT DAMIAN TEJADA ORTIZ,AP2,INFO,1
+Student_49,ROBERT DAMIAN TEJADA ORTIZ,AP2,MAJOR,4
+Student_49,ROBERT DAMIAN TEJADA ORTIZ,AP2,MINOR,67
+Student_5,Alexander Suárez,AP1,CRITICAL,6
+Student_5,Alexander Suárez,AP1,MAJOR,8
+Student_5,Alexander Suárez,AP1,MINOR,14
+Student_5,Alexander Suárez,AP2,CRITICAL,6
+Student_5,Alexander Suárez,AP2,INFO,1
+Student_5,Alexander Suárez,AP2,MAJOR,21
+Student_5,Alexander Suárez,AP2,MINOR,56
+Student_50,Ronell Jesús Rosario López,AP1,CRITICAL,3
+Student_50,Ronell Jesús Rosario López,AP1,MAJOR,12
+Student_50,Ronell Jesús Rosario López,AP1,MINOR,22
+Student_50,Ronell Jesús Rosario López,AP2,CRITICAL,4
+Student_50,Ronell Jesús Rosario López,AP2,INFO,1
+Student_50,Ronell Jesús Rosario López,AP2,MAJOR,8
+Student_50,Ronell Jesús Rosario López,AP2,MINOR,15
+Student_51,Ruth Betsaida,AP1,BLOCKER,2
+Student_51,Ruth Betsaida,AP1,CRITICAL,5
+Student_51,Ruth Betsaida,AP1,INFO,1
+Student_51,Ruth Betsaida,AP1,MAJOR,120
+Student_51,Ruth Betsaida,AP1,MINOR,121
+Student_51,Ruth Betsaida,AP2,CRITICAL,58
+Student_51,Ruth Betsaida,AP2,MAJOR,41
+Student_51,Ruth Betsaida,AP2,MINOR,142
+Student_52,Samir Ernesto Castillo Paredes,AP1,CRITICAL,2
+Student_52,Samir Ernesto Castillo Paredes,AP1,MAJOR,8
+Student_52,Samir Ernesto Castillo Paredes,AP1,MINOR,35
+Student_52,Samir Ernesto Castillo Paredes,AP2,CRITICAL,4
+Student_52,Samir Ernesto Castillo Paredes,AP2,INFO,1
+Student_52,Samir Ernesto Castillo Paredes,AP2,MAJOR,8
+Student_52,Samir Ernesto Castillo Paredes,AP2,MINOR,15
+Student_53,Samuel Antonio Javier Pantaleón,AP1,BLOCKER,1
+Student_53,Samuel Antonio Javier Pantaleón,AP1,MAJOR,47
+Student_53,Samuel Antonio Javier Pantaleón,AP1,MINOR,8
+Student_53,Samuel Antonio Javier Pantaleón,AP2,CRITICAL,10
+Student_53,Samuel Antonio Javier Pantaleón,AP2,INFO,1
+Student_53,Samuel Antonio Javier Pantaleón,AP2,MAJOR,10
+Student_53,Samuel Antonio Javier Pantaleón,AP2,MINOR,82
+Student_54,Steven Yesandy Candelario Fernández,AP1,BLOCKER,1
+Student_54,Steven Yesandy Candelario Fernández,AP1,CRITICAL,5
+Student_54,Steven Yesandy Candelario Fernández,AP1,MAJOR,6
+Student_54,Steven Yesandy Candelario Fernández,AP1,MINOR,42
+Student_54,Steven Yesandy Candelario Fernández,AP2,CRITICAL,8
+Student_54,Steven Yesandy Candelario Fernández,AP2,INFO,1
+Student_54,Steven Yesandy Candelario Fernández,AP2,MAJOR,16
+Student_54,Steven Yesandy Candelario Fernández,AP2,MINOR,17
+Student_55,Wilber Galvez Galvez,AP1,CRITICAL,1
+Student_55,Wilber Galvez Galvez,AP1,INFO,11
+Student_55,Wilber Galvez Galvez,AP1,MAJOR,35
+Student_55,Wilber Galvez Galvez,AP1,MINOR,13
+Student_55,Wilber Galvez Galvez,AP2,CRITICAL,1
+Student_55,Wilber Galvez Galvez,AP2,INFO,1
+Student_55,Wilber Galvez Galvez,AP2,MAJOR,4
+Student_55,Wilber Galvez Galvez,AP2,MINOR,30
+Student_56,Yohualkis David Tejada Escolástico,AP1,BLOCKER,2
+Student_56,Yohualkis David Tejada Escolástico,AP1,CRITICAL,16
+Student_56,Yohualkis David Tejada Escolástico,AP1,MAJOR,14
+Student_56,Yohualkis David Tejada Escolástico,AP1,MINOR,25
+Student_56,Yohualkis David Tejada Escolástico,AP2,CRITICAL,7
+Student_56,Yohualkis David Tejada Escolástico,AP2,INFO,1
+Student_56,Yohualkis David Tejada Escolástico,AP2,MAJOR,12
+Student_56,Yohualkis David Tejada Escolástico,AP2,MINOR,31
+Student_57,Yokaira Taveras Hernández,AP1,CRITICAL,6
+Student_57,Yokaira Taveras Hernández,AP1,MAJOR,8
+Student_57,Yokaira Taveras Hernández,AP1,MINOR,14
+Student_57,Yokaira Taveras Hernández,AP2,CRITICAL,10
+Student_57,Yokaira Taveras Hernández,AP2,INFO,2
+Student_57,Yokaira Taveras Hernández,AP2,MAJOR,10
+Student_57,Yokaira Taveras Hernández,AP2,MINOR,40
+Student_58,Yudelka Elister Guillen,AP1,CRITICAL,3
+Student_58,Yudelka Elister Guillen,AP1,MAJOR,5
+Student_58,Yudelka Elister Guillen,AP1,MINOR,16
+Student_58,Yudelka Elister Guillen,AP2,CRITICAL,8
+Student_58,Yudelka Elister Guillen,AP2,INFO,1
+Student_58,Yudelka Elister Guillen,AP2,MAJOR,16
+Student_58,Yudelka Elister Guillen,AP2,MINOR,17
+Student_59,Frailyn Garcia Garcia,AP1,BLOCKER,2
+Student_59,Frailyn Garcia Garcia,AP1,CRITICAL,16
+Student_59,Frailyn Garcia Garcia,AP1,MAJOR,14
+Student_59,Frailyn Garcia Garcia,AP1,MINOR,25
+Student_59,Frailyn Garcia Garcia,AP2,CRITICAL,30
+Student_59,Frailyn Garcia Garcia,AP2,INFO,2
+Student_59,Frailyn Garcia Garcia,AP2,MAJOR,193
+Student_59,Frailyn Garcia Garcia,AP2,MINOR,263
+Student_6,Alma Betsaida Rosa,AP1,CRITICAL,3
+Student_6,Alma Betsaida Rosa,AP1,MAJOR,16
+Student_6,Alma Betsaida Rosa,AP1,MINOR,22
+Student_6,Alma Betsaida Rosa,AP2,BLOCKER,1
+Student_6,Alma Betsaida Rosa,AP2,CRITICAL,30
+Student_6,Alma Betsaida Rosa,AP2,INFO,1
+Student_6,Alma Betsaida Rosa,AP2,MAJOR,60
+Student_6,Alma Betsaida Rosa,AP2,MINOR,69
+Student_7,Angel Luis González Delgado,AP1,BLOCKER,1
+Student_7,Angel Luis González Delgado,AP1,CRITICAL,4
+Student_7,Angel Luis González Delgado,AP1,MAJOR,6
+Student_7,Angel Luis González Delgado,AP1,MINOR,17
+Student_7,Angel Luis González Delgado,AP2,CRITICAL,13
+Student_7,Angel Luis González Delgado,AP2,INFO,1
+Student_7,Angel Luis González Delgado,AP2,MAJOR,22
+Student_7,Angel Luis González Delgado,AP2,MINOR,81
+Student_8,Braylin Vasquez Guzman,AP1,BLOCKER,2
+Student_8,Braylin Vasquez Guzman,AP1,MAJOR,9
+Student_8,Braylin Vasquez Guzman,AP1,MINOR,30
+Student_8,Braylin Vasquez Guzman,AP2,CRITICAL,9
+Student_8,Braylin Vasquez Guzman,AP2,INFO,1
+Student_8,Braylin Vasquez Guzman,AP2,MAJOR,16
+Student_8,Braylin Vasquez Guzman,AP2,MINOR,17
+Student_9,Bryan Smith Ovalles Burgos,AP1,BLOCKER,1
+Student_9,Bryan Smith Ovalles Burgos,AP1,MAJOR,8
+Student_9,Bryan Smith Ovalles Burgos,AP1,MINOR,20
+Student_9,Bryan Smith Ovalles Burgos,AP2,CRITICAL,13
+Student_9,Bryan Smith Ovalles Burgos,AP2,INFO,1
+Student_9,Bryan Smith Ovalles Burgos,AP2,MAJOR,22
+Student_9,Bryan Smith Ovalles Burgos,AP2,MINOR,81

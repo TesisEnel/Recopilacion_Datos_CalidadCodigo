@@ -1,0 +1,17 @@
+{
+  "fecha_extraccion": "2025-08-10T12:14:30.845352",
+  "total_estudiantes_procesados": 60,
+  "total_proyectos_intentados": 120,
+  "total_proyectos_exitosos": 120,
+  "total_proyectos_fallidos": 0,
+  "total_issues_extraidos": 9504,
+  "estudiantes_con_issues": 60,
+  "proyectos_con_issues": 78,
+  "archivos_generados": [
+    "../data/issues_detallados_20250810_121430.csv",
+    "../data/issues_resumen_proyecto_20250810_121430.csv",
+    "../data/issues_por_tipo_20250810_121430.csv",
+    "../data/issues_por_severidad_20250810_121430.csv",
+    "../data/issues_estadisticas_20250810_121430.csv"
+  ]
+}
