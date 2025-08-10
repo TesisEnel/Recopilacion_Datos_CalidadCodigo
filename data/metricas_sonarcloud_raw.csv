@@ -6,13 +6,13 @@ Student_1,Abraham El Hage Jreij,TesisEnel_Final_Project-Abraham-ap2,AP2,1,succes
 Student_2,Adiel Luis García Rosa,TesisEnel_PeakPerformance-samuelAntonio-ap1,AP1,2,success,1,0,0,55,,1.0,151,15,,0.7,0.0,2250,5.0,1.0,56
 Student_2,Adiel Luis García Rosa,TesisEnel_GymProApp-AdielGarcia-Ap2,AP2,2,success,0,0,2,40,,1.0,375,546,,1.5,0.8,5736,1.0,1.0,40
 Student_3,Alaina Garcia Salazar,TesisEnel_ReyAI_Transport-Reyfil-Ap1,AP1,3,success,1,1,1,33,,1.0,538,57,,2.7,2.4,4228,4.0,5.0,35
-Student_3,Alaina Garcia Salazar,TesisEnel_RecreArte-JeronyCruz-Ap2,AP2,3,success,0,0,2,116,,1.0,900,1038,,2.8,12.3,11268,1.0,1.0,116
+Student_3,Alaina Garcia Salazar,TesisEnel_RecreArte-JeronyCruz-Ap2,AP2,3,success,1,0,2,144,,1.0,1010,1122,,2.5,8.7,13084,3.0,1.0,145
 Student_4,Albert Luis Delgado Maria,TesisEnel_ProyectoFinal-AlbertRegalado-ap1,AP1,4,success,14,0,1,58,,1.0,198,67,,1.5,1.0,1536,3.0,1.0,72
 Student_4,Albert Luis Delgado Maria,TesisEnel_MoonlightBarApp-AlbetDelgado-ap2,AP2,4,success,0,0,1,28,,1.0,99,172,,1.5,10.7,2781,1.0,1.0,28
 Student_5,Alexander Suárez,TesisEnel_ProyectoFinalDotNet8-alexander-ap1,AP1,5,success,1,0,0,27,,1.0,323,93,,10.1,2.9,2734,3.0,1.0,28
 Student_5,Alexander Suárez,TesisEnel_GeekMarket-Alexander-ap2,AP2,5,success,0,0,1,84,,1.0,237,211,,2.2,5.2,5186,1.0,1.0,84
 Student_6,Alma Betsaida Rosa,TesisEnel_Proyecto_TixPro-CarlosCustodio-ap1,AP1,6,success,1,0,1,40,,1.0,236,32,,2.9,0.7,2019,3.0,1.0,41
-Student_6,Alma Betsaida Rosa,TesisEnel_FinTracker-AlmaCocolate-ap2,AP2,6,success,0,1,2,91,,1.0,394,653,,1.7,9.6,7669,1.0,5.0,92
+Student_6,Alma Betsaida Rosa,TesisEnel_FinTracker-AlmaCocolate-ap2,AP2,6,success,0,1,4,102,,1.0,621,805,,2.2,7.6,10770,1.0,5.0,103
 Student_7,Angel Luis González Delgado,TesisEnel_ProyectoFinalGourmetGrill-Marte-ap1,AP1,7,success,1,1,1,26,,1.0,348,44,,2.3,1.6,2549,4.0,5.0,28
 Student_7,Angel Luis González Delgado,TesisEnel_Doers-JoseOrtega-ap2,AP2,7,success,0,0,2,117,,1.0,640,795,,1.4,5.9,10256,1.0,1.0,117
 Student_8,Braylin Vasquez Guzman,TesisEnel_ProyectoFinalAplicada1-Brailyn-ap1,AP1,8,success,0,1,1,40,,1.0,312,42,,7.4,1.5,2138,1.0,5.0,41
@@ -20,7 +20,7 @@ Student_8,Braylin Vasquez Guzman,TesisEnel_ProyectoFinalAplicada2-Brailyn-ap2,AP
 Student_9,Bryan Smith Ovalles Burgos,TesisEnel_Proyecto_SouKuroApp-BryanOvalles-Ap1,AP1,9,success,0,1,1,28,,1.0,318,42,,2.5,1.1,2350,1.0,5.0,29
 Student_9,Bryan Smith Ovalles Burgos,TesisEnel_Doers-JoseOrtega-ap2,AP2,9,success,0,0,2,117,,1.0,640,795,,1.4,5.9,10256,1.0,1.0,117
 Student_10,Carlos Manuel Custodio Then,TesisEnel_Proyecto_TixPro-CarlosCustodio-ap1,AP1,10,success,1,0,1,40,,1.0,236,32,,2.9,0.7,2019,3.0,1.0,41
-Student_10,Carlos Manuel Custodio Then,TesisEnel_FinTracker-AlmaCocolate-ap2,AP2,10,success,0,1,2,91,,1.0,394,653,,1.7,9.6,7669,1.0,5.0,92
+Student_10,Carlos Manuel Custodio Then,TesisEnel_FinTracker-AlmaCocolate-ap2,AP2,10,success,0,1,4,102,,1.0,621,805,,2.2,7.6,10770,1.0,5.0,103
 Student_11,Cesar Jose Reynoso Martinez,TesisEnel_ProStellar-Cesar-ap1,AP1,11,success,22,0,6,263,,1.0,1364,540,0.0,6.7,2.0,8153,5.0,1.0,285
 Student_11,Cesar Jose Reynoso Martinez,TesisEnel_FlappyEnel-Cesar-ap2,AP2,11,success,0,0,1,59,,1.0,106,173,,2.1,1.4,2113,1.0,1.0,59
 Student_12,Cristopher Marte Blanco,TesisEnel_ProyectoFinalGourmetGrill-Marte-ap1,AP1,12,success,1,1,1,26,,1.0,348,44,,2.3,1.6,2549,4.0,5.0,28
@@ -30,13 +30,13 @@ Student_13,David Otoniel Rosario Serrano,TesisEnel_FoodiePlace-David-ap2,AP2,13,
 Student_14,Delfry Paulino,TesisEnel_HydraulicFix-Delfry-Ap1,AP1,14,success,0,0,1,24,,1.0,675,112,,3.0,1.2,4492,1.0,1.0,24
 Student_14,Delfry Paulino,TesisEnel_FitGoal-Delfry-Ap2,AP2,14,success,0,0,2,42,,1.0,582,580,,0.5,3.9,8968,1.0,1.0,42
 Student_15,Eddy Samil Capellan Mena,TesisEnel_ProyectoFinalAp1-JoseDaniel-ap1,AP1,15,success,1,1,1,31,,1.0,323,43,,5.5,1.0,4257,3.0,5.0,33
-Student_15,Eddy Samil Capellan Mena,TesisEnel_URESERVE-JoseDaniel-ap2,AP2,15,success,0,0,1,271,,1.0,1009,1411,,3.0,35.6,17130,1.0,1.0,271
+Student_15,Eddy Samil Capellan Mena,TesisEnel_URESERVE-JoseDaniel-ap2,AP2,15,success,1,0,1,224,,1.0,1291,1776,,0.3,39.1,25937,3.0,1.0,225
 Student_16,Eliezer terrero rojas,TesisEnel_ProyectoFinalAplicada1-Brailyn-ap1,AP1,16,success,0,1,1,40,,1.0,312,42,,7.4,1.5,2138,1.0,5.0,41
 Student_16,Eliezer terrero rojas,TesisEnel_ProyectoFinalAplicada2-Brailyn-ap2,AP2,16,success,0,0,1,43,,1.0,619,628,,0.8,0.6,8555,1.0,1.0,43
 Student_17,Emill Daniel García Castellanos,TesisEnel_SystemFerreteria-emildaniel-ap1,AP1,17,success,13,0,1,36,,1.0,193,51,,3.9,2.6,2698,3.0,1.0,49
 Student_17,Emill Daniel García Castellanos,TesisEnel_TRABAJA_YA-EmilGarcia-ap2,AP2,17,success,0,0,2,61,,1.0,86,127,,1.9,20.6,2581,1.0,1.0,61
 Student_18,Freimy De Jesus Hidalgo Gonzalez,TesisEnel_SkyReserves-FreimyHidalgo-Ap1,AP1,18,success,5,1,3,14,,1.0,318,33,,1.8,0.6,2675,3.0,5.0,20
-Student_18,Freimy De Jesus Hidalgo Gonzalez,TesisEnel_SkyFleet-FreimyHidaldo-Ap2,AP2,18,success,0,0,1,3,,1.0,9,4,,10.7,0.0,369,1.0,1.0,3
+Student_18,Freimy De Jesus Hidalgo Gonzalez,TesisEnel_SkyFleet-FreimyHidaldo-Ap2,AP2,18,success,5,0,3,294,,1.0,1002,1575,,3.8,9.2,15487,3.0,1.0,299
 Student_19,Geremy O. de los Santos Santiago,TesisEnel_ControlDeInventarios-GeremySantiago-Ap1,AP1,19,success,0,1,1,20,,1.0,453,114,0.0,1.0,2.1,1580,1.0,5.0,21
 Student_19,Geremy O. de los Santos Santiago,TesisEnel_SaludConnect-GeremySantiago-Ap2,AP2,19,success,0,0,1,17,,1.0,68,36,,5.5,0.0,1224,1.0,1.0,17
 Student_20,Greilyn Polanco Tejada,TesisEnel_SalesSyste-Levid-ap1,AP1,20,success,12,0,4,33,,1.0,230,66,,5.1,0.4,2055,3.0,1.0,45
@@ -50,13 +50,13 @@ Student_23,Jairo Camilo,TesisEnel_SpellingAppV2-JairoAcosta-Ap2,AP2,23,success,0
 Student_24,Jasson Levid Tejada Martínez,TesisEnel_SalesSyste-Levid-ap1,AP1,24,success,12,0,4,33,,1.0,230,66,,5.1,0.4,2055,3.0,1.0,45
 Student_24,Jasson Levid Tejada Martínez,TesisEnel_PuppyPlace-Levid-ap2,AP2,24,success,0,0,1,21,,1.0,259,255,,1.3,2.3,4456,1.0,1.0,21
 Student_25,Jerony Ulises Cruz Fermin,TesisEnel_DragonsDinner-JeronyCruz-Ap1,AP1,25,success,31,1,1,40,,1.0,416,50,,0.8,0.9,14137,4.0,5.0,72
-Student_25,Jerony Ulises Cruz Fermin,TesisEnel_RecreArte-JeronyCruz-Ap2,AP2,25,success,0,0,2,116,,1.0,900,1038,,2.8,12.3,11268,1.0,1.0,116
+Student_25,Jerony Ulises Cruz Fermin,TesisEnel_RecreArte-JeronyCruz-Ap2,AP2,25,success,1,0,2,144,,1.0,1010,1122,,2.5,8.7,13084,3.0,1.0,145
 Student_26,Jorge Luis Toribio Gil,TesisEnel_ProyectoFinal-JorgeToribio-Ap1,AP1,26,success,12,0,2,34,,1.0,456,154,0.0,0.8,0.0,1988,3.0,1.0,46
 Student_26,Jorge Luis Toribio Gil,TesisEnel_VerbLearn-JorgeToribio-Ap2,AP2,26,success,0,0,1,76,,1.0,91,164,,2.4,3.0,1960,1.0,1.0,76
 Student_27,José Antonio Ortega Serrano,TesisEnel_ProyectoFinalSistemaVentas-davidOtoniel-ap1,AP1,27,success,0,0,0,80,,1.0,559,40,,3.4,1.6,5087,1.0,1.0,80
 Student_27,José Antonio Ortega Serrano,TesisEnel_Doers-JoseOrtega-ap2,AP2,27,success,0,0,2,117,,1.0,640,795,,1.4,5.9,10256,1.0,1.0,117
 Student_28,Jose Daniel Rivera Ortega,TesisEnel_ProyectoFinalAp1-JoseDaniel-ap1,AP1,28,success,1,1,1,31,,1.0,323,43,,5.5,1.0,4257,3.0,5.0,33
-Student_28,Jose Daniel Rivera Ortega,TesisEnel_URESERVE-JoseDaniel-ap2,AP2,28,success,0,0,1,271,,1.0,1009,1411,,3.0,35.6,17130,1.0,1.0,271
+Student_28,Jose Daniel Rivera Ortega,TesisEnel_URESERVE-JoseDaniel-ap2,AP2,28,success,1,0,1,224,,1.0,1291,1776,,0.3,39.1,25937,3.0,1.0,225
 Student_29,Jose Manuel Polanco,TesisEnel_PanaderiaMj-JoseManuelPolanco-Ap1,AP1,29,success,0,1,0,27,,1.0,316,36,,2.7,0.4,2389,1.0,5.0,28
 Student_29,Jose Manuel Polanco,TesisEnel_JSAutoParts-JoseManuelPolanco-Ap2,AP2,29,success,6,0,4,61,,1.0,245,142,,1.3,2.5,3981,3.0,1.0,67
 Student_30,Jose Miguel Bonilla,TesisEnel_PrestigeFinancialManager-JoseMiguelBonilla-Ap1,AP1,30,success,6,0,2,103,,1.0,549,232,0.0,2.0,0.0,3588,3.0,1.0,109
@@ -66,7 +66,7 @@ Student_31,Joseph Garcia Torres,TesisEnel_VerbLearn-JorgeToribio-Ap2,AP2,31,succ
 Student_32,Josue Russo Mieses,TesisEnel_ProyectoFinalCursos-josue-ap1,AP1,32,success,1,1,7,86,,1.0,516,203,0.0,0.1,0.0,12457,2.0,5.0,88
 Student_32,Josue Russo Mieses,TesisEnel_ProyectoFinal_Ap2_Eventos-JosueRusso-ap2,AP2,32,success,0,0,2,50,,1.0,150,175,,2.0,5.5,2430,1.0,1.0,50
 Student_33,Juan Sebastián Suarez Brito,TesisEnel_VentasSyM-JuanSuarez-Ap1,AP1,33,success,0,1,1,50,,1.0,260,75,,3.9,1.9,1747,1.0,5.0,51
-Student_33,Juan Sebastián Suarez Brito,TesisEnel_GymApp-JuanSuarez-Ap2,AP2,33,success,0,0,1,23,,1.0,891,904,,0.4,13.0,13702,1.0,1.0,23
+Student_33,Juan Sebastián Suarez Brito,TesisEnel_GymApp-JuanSuarez-Ap2,AP2,33,success,1,0,1,40,,1.0,914,1074,,0.3,5.9,14571,3.0,1.0,41
 Student_34,Julio Cesar Pichardo Barranco,TesisEnel_AguaMariaSolution-JulioPichardo-ap1,AP1,34,success,0,0,1,47,,1.0,887,358,,4.1,16.3,5857,1.0,1.0,47
 Student_34,Julio Cesar Pichardo Barranco,TesisEnel_CineTix-JulioPichardo-Ap2,AP2,34,success,0,0,2,32,,1.0,314,383,,1.3,4.0,5447,1.0,1.0,32
 Student_35,Kevin Duran Bruno,TesisEnel_ProStellar-Cesar-ap1,AP1,35,success,22,0,6,263,,1.0,1364,540,0.0,6.7,2.0,8153,5.0,1.0,285
@@ -84,7 +84,7 @@ Student_40,Luis Manuel Duarte,TesisEnel_FoodiePlace-David-ap2,AP2,40,success,0,0
 Student_41,Luis Miguel Jérez Cáceres,TesisEnel_QueRecomiendas-luismiguel-ap1,AP1,41,success,2,1,1,13,,1.0,202,52,,1.2,0.0,1228,3.0,5.0,16
 Student_41,Luis Miguel Jérez Cáceres,TesisEnel_BodyBuilderStore-LuisMiguel-ap2,AP2,41,success,0,0,2,117,,1.0,219,304,,1.0,18.6,5587,1.0,1.0,117
 Student_42,Marcos Duran De la Cruz,TesisEnel_VentasSyM-JuanSuarez-Ap1,AP1,42,success,0,1,1,50,,1.0,260,75,,3.9,1.9,1747,1.0,5.0,51
-Student_42,Marcos Duran De la Cruz,TesisEnel_GymApp-JuanSuarez-Ap2,AP2,42,success,0,0,1,23,,1.0,891,904,,0.4,13.0,13702,1.0,1.0,23
+Student_42,Marcos Duran De la Cruz,TesisEnel_GymApp-JuanSuarez-Ap2,AP2,42,success,1,0,1,40,,1.0,914,1074,,0.3,5.9,14571,3.0,1.0,41
 Student_43,Miguel Angel Betances Beato,TesisEnel_PanaderiaMj-JoseManuelPolanco-Ap1,AP1,43,success,0,1,0,27,,1.0,316,36,,2.7,0.4,2389,1.0,5.0,28
 Student_43,Miguel Angel Betances Beato,TesisEnel_Proyecto-Final-MiguelBetances-Ap2,AP2,43,success,0,0,1,18,,1.0,271,251,,2.3,0.0,3757,1.0,1.0,18
 Student_44,NATHALY GORIS ESPINO,TesisEnel_FinanzApp-Nathaly-Ap1,AP1,44,success,14,0,5,73,,1.0,478,246,0.0,0.9,0.0,2003,3.0,1.0,87
@@ -94,7 +94,7 @@ Student_45,Pedro Vladimir Guzmán Salazar,TesisEnel_SpellingAppV2-JairoAcosta-Ap
 Student_46,Randy Fabián Belliard,TesisEnel_GymHyR-LorHenzo-Ap1,AP1,46,success,0,1,1,21,,1.0,442,102,,2.1,1.1,2795,1.0,5.0,22
 Student_46,Randy Fabián Belliard,TesisEnel_PF-RandyFabian-Ap2,AP2,46,success,0,0,1,39,,1.0,136,131,,4.6,6.0,2624,1.0,1.0,39
 Student_47,Reyphill Núñez Duarte,TesisEnel_ReyAI_Transport-Reyfil-Ap1,AP1,47,success,1,1,1,33,,1.0,538,57,,2.7,2.4,4228,4.0,5.0,35
-Student_47,Reyphill Núñez Duarte,TesisEnel_NeuroPulse-Reyphill-Ap2,AP2,47,success,0,0,1,22,,1.0,237,210,,1.3,2.5,4184,1.0,1.0,22
+Student_47,Reyphill Núñez Duarte,TesisEnel_NeuroPulse-Reyphill-Ap2,AP2,47,success,0,0,2,22,,1.0,823,940,,1.3,11.6,12222,1.0,1.0,22
 Student_48,Robelin Isaac,TesisEnel_Sublimation-Robelin-ap1,AP1,48,success,0,1,0,23,,1.0,294,38,,2.5,0.3,2068,1.0,5.0,24
 Student_48,Robelin Isaac,TesisEnel_SharkStyle-IsaacCoste-ap2,AP2,48,success,1,0,1,77,,1.0,382,375,,3.5,8.4,5930,3.0,1.0,78
 Student_49,ROBERT DAMIAN TEJADA ORTIZ,TesisEnel_Juntos_A_Suerte_Compose-Robert-ap2,AP1,49,success,0,0,1,72,,1.0,49,26,,7.3,0.0,1056,1.0,1.0,72
@@ -112,10 +112,10 @@ Student_54,Steven Yesandy Candelario Fernández,TesisEnel_FitGoal-Delfry-Ap2,AP2
 Student_55,Wilber Galvez Galvez,TesisEnel_ProyectoFinalPanaderia-wilber-ap1,AP1,55,success,16,0,2,44,,1.0,474,180,0.0,6.1,0.1,2384,3.0,1.0,60
 Student_55,Wilber Galvez Galvez,TesisEnel_ShopAssistant-Wilber-ap2,AP2,55,success,0,0,1,36,,1.0,64,61,,3.0,3.3,1544,1.0,1.0,36
 Student_56,Yohualkis David Tejada Escolástico,TesisEnel_FitForge-Yowalkis-Ap1,AP1,56,success,0,2,4,55,,1.0,573,85,,4.7,3.5,4458,1.0,5.0,57
-Student_56,Yohualkis David Tejada Escolástico,TesisEnel_CashControl-Yowalkis-Ap2,AP2,56,success,0,0,2,37,,1.0,197,127,,1.6,3.6,4231,1.0,1.0,37
+Student_56,Yohualkis David Tejada Escolástico,TesisEnel_CashControl-Yowalkis-Ap2,AP2,56,success,0,0,2,48,,1.0,274,194,,1.5,4.8,5625,1.0,1.0,48
 Student_57,Yokaira Taveras Hernández,TesisEnel_ProyectoFinalDotNet8-alexander-ap1,AP1,57,success,1,0,0,27,,1.0,323,93,,10.1,2.9,2734,3.0,1.0,28
 Student_57,Yokaira Taveras Hernández,TesisEnel_GlamourMarket-Yocaira-Ap2,AP2,57,success,0,0,1,62,,1.0,148,236,,2.4,6.9,2640,1.0,1.0,62
 Student_58,Yudelka Elister Guillen,TesisEnel_HydraulicFix-Delfry-Ap1,AP1,58,success,0,0,1,24,,1.0,675,112,,3.0,1.2,4492,1.0,1.0,24
 Student_58,Yudelka Elister Guillen,TesisEnel_FitGoal-Delfry-Ap2,AP2,58,success,0,0,2,42,,1.0,582,580,,0.5,3.9,8968,1.0,1.0,42
 Student_59,Frailyn Garcia Garcia,TesisEnel_FitForge-Yowalkis-Ap1,AP1,59,success,0,2,4,55,,1.0,573,85,,4.7,3.5,4458,1.0,5.0,57
-Student_59,Frailyn Garcia Garcia,TesisEnel_SkyFleet-FreimyHidaldo-Ap2,AP2,59,success,0,0,1,3,,1.0,9,4,,10.7,0.0,369,1.0,1.0,3
+Student_59,Frailyn Garcia Garcia,TesisEnel_SkyFleet-FreimyHidaldo-Ap2,AP2,59,success,5,0,3,294,,1.0,1002,1575,,3.8,9.2,15487,3.0,1.0,299
