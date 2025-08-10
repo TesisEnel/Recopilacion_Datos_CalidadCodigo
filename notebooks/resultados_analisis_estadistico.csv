@@ -1,0 +1,11 @@
+Métrica,Dimensión,AP1_Media,AP1_Std,AP2_Media,AP2_Std,Cambio_Absoluto,Cambio_Porcentual,Test_Estadístico,p_valor,Cohen_d,Tamaño_Efecto,Significativo,Significativo_FDR
+complexity,Complejidad,456.783,0,436.617,0,-20.167,-4.415,Wilcoxon signed-rank,0.774,-0.058,Pequeño,False,False
+comment_lines_density,Documentación,3.443,0,2.28,0,-1.163,-33.785,Wilcoxon signed-rank,0.001,-0.477,Pequeño,True,True
+bugs,Fiabilidad,4.2,0,0.467,0,-3.733,-88.889,Wilcoxon signed-rank,0.0,-0.746,Mediano,True,True
+reliability_rating,Fiabilidad,2.267,0,1.433,0,-0.833,-36.765,Wilcoxon signed-rank,0.0,-0.758,Mediano,True,True
+duplicated_lines_density,Mantenibilidad,1.623,0,6.907,0,5.283,325.462,Wilcoxon signed-rank,0.0,0.864,Grande,True,True
+cognitive_complexity,Mantenibilidad,139.033,0,505.283,0,366.25,263.426,Wilcoxon signed-rank,0.0,1.012,Grande,True,True
+code_smells,Mantenibilidad,56.85,0,77.233,0,20.383,35.855,Wilcoxon signed-rank,0.057,0.327,Pequeño,False,False
+vulnerabilities,Seguridad,0.55,0,0.083,0,-0.467,-84.848,Wilcoxon signed-rank,0.0,-0.968,Grande,True,True
+security_rating,Seguridad,2.933,0,1.233,0,-1.7,-57.955,Wilcoxon signed-rank,0.0,-1.103,Grande,True,True
+ncloc,Tamaño,3499.767,0,7281.85,0,3782.083,108.067,Wilcoxon signed-rank,0.0,0.861,Grande,True,True
