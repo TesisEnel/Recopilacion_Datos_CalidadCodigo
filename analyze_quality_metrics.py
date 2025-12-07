@@ -30,13 +30,12 @@ import matplotlib.pyplot as plt
 import datetime
 
 METRICS_BASE = [
-    "technical_debt","code_smells","bugs","vulnerabilities","security_hotspots","duplicated_lines_density",
-    "cognitive_complexity","complexity","coverage","comment_lines_density","ncloc","reliability_rating",
-    "security_rating","sqale_rating","open_issues",
+    "code_smells","bugs","vulnerabilities","security_hotspots",
+    "cognitive_complexity","complexity","ncloc","reliability_rating",
+    "security_rating","open_issues",
 ]
-LOWER_IS_BETTER = {"technical_debt","code_smells","bugs","vulnerabilities","security_hotspots","duplicated_lines_density","cognitive_complexity","complexity","reliability_rating","security_rating","sqale_rating","open_issues"}
-HIGHER_IS_BETTER = {"coverage","comment_lines_density"}
-NEUTRAL = set(METRICS_BASE) - LOWER_IS_BETTER - HIGHER_IS_BETTER
+LOWER_IS_BETTER = {"code_smells","bugs","vulnerabilities","security_hotspots","cognitive_complexity","complexity","reliability_rating","security_rating","open_issues"}
+NEUTRAL = set(METRICS_BASE) - LOWER_IS_BETTER
 @dataclass
 class MetricResult:
     metric: str; test_used: str; n_paired: int; mean_ap1: float; mean_ap2: float; delta: float; pct_change: float | None
@@ -55,11 +54,10 @@ def classify_effect_size(d: float) -> str:
 
 def infer_direction(metric: str) -> str:
     if metric in LOWER_IS_BETTER: return "lower_better"
-    if metric in HIGHER_IS_BETTER: return "higher_better"
     return "neutral"
 
 def compute_improvement(metric: str, mean_ap1: float, mean_ap2: float) -> str:
-    d=infer_direction(metric); return "Yes" if (d=="lower_better" and mean_ap2<mean_ap1) or (d=="higher_better" and mean_ap2>mean_ap1) else ("Neutral" if d=="neutral" else "No")
+    d=infer_direction(metric); return "Yes" if d=="lower_better" and mean_ap2<mean_ap1 else ("Neutral" if d=="neutral" else "No")
 
 def safe_pct_change(ap1: float, ap2: float) -> float | None:
     return None if ap1==0 else (ap2-ap1)/ap1*100.0
@@ -156,13 +154,13 @@ def plot_correlation_heatmap(df: pd.DataFrame, outdir: str, metrics: List[str]):
 
 def parse_args():
     p=argparse.ArgumentParser(description="Análisis de métricas de calidad AP1 vs AP2")
-    p.add_argument("--csv",required=True,help="Ruta al CSV de estudiantes con métricas")
+    p.add_argument("--csv",default="data/Estudiantes_2023-2024_con_metricas_sonarcloud.csv",help="Ruta al CSV de estudiantes con métricas")
     p.add_argument("--out",default="outputs",help="Directorio de salida")
     p.add_argument("--no-plots",action="store_true",help="Omitir generación de gráficos")
     p.add_argument("--metrics",nargs="*",help="Subconjunto de métricas base a analizar (default: todas)")
-    p.add_argument("--report-md",action="store_true",help="Generar reporte interpretativo en Markdown")
-    p.add_argument("--report-formal",action="store_true",help="Generar informe formal con gráficos")
-    p.add_argument("--report-exec",action="store_true",help="Generar resumen ejecutivo con gráficos")
+    p.add_argument("--report-md",action="store_true",default=True,help="Generar reporte interpretativo en Markdown")
+    p.add_argument("--report-formal",action="store_true",default=True,help="Generar informe formal con gráficos")
+    p.add_argument("--report-exec",action="store_true",default=True,help="Generar resumen ejecutivo con gráficos")
     return p.parse_args()
 
 # ---------------------------- Reporte Markdown ---------------------------- #
@@ -293,7 +291,7 @@ def generate_executive_summary(res_df: pd.DataFrame,outdir:str):
     improvements=', '.join(sig[sig.improved=='Yes'].metric.tolist()[:4])
     deterioro=', '.join(sig[sig.improved=='No'].metric.tolist()[:4])
     lines=["# Resumen Ejecutivo","","## Claves","Cambios significativos tras FDR: {}".format(len(sig)),
-           f"Mejoras: {improvements if improvements else 'Ninguna'}","Deterioros: {deterioro if deterioro else 'Ninguno'}","","## Visuales"]
+           f"Mejoras: {improvements if improvements else 'Ninguna'}",f"Deterioros: {deterioro if deterioro else 'Ninguno'}","","## Visuales"]
     for img in ["fig_boxplots.png","fig_heatmap_correlaciones.png"]:
         if os.path.exists(os.path.join(outdir,img)):
             lines.append(f"![{img}]({img})")

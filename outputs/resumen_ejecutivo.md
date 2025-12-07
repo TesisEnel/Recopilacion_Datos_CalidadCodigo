@@ -1,9 +1,9 @@
 # Resumen Ejecutivo
 
 ## Claves
-Cambios significativos tras FDR: 8
-Mejoras: bugs, security_rating, reliability_rating, vulnerabilities
-Deterioros: {deterioro if deterioro else 'Ninguno'}
+Cambios significativos tras FDR: 6
+Mejoras: security_rating, vulnerabilities, bugs, reliability_rating
+Deterioros: cognitive_complexity
 
 ## Visuales
 ![fig_boxplots.png](fig_boxplots.png)
