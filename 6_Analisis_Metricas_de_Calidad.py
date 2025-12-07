@@ -154,7 +154,7 @@ def plot_correlation_heatmap(df: pd.DataFrame, outdir: str, metrics: List[str]):
 
 def parse_args():
     p=argparse.ArgumentParser(description="Análisis de métricas de calidad AP1 vs AP2")
-    p.add_argument("--csv",default="data/Estudiantes_2023-2024_con_metricas_sonarcloud.csv",help="Ruta al CSV de estudiantes con métricas")
+    p.add_argument("--csv",default="https://raw.githubusercontent.com/TesisEnel/Recopilacion_Datos_CalidadCodigo/refs/heads/main/data/Estudiantes_2023-2024_con_metricas_sonarcloud.csv",help="Ruta al CSV de estudiantes con métricas")
     p.add_argument("--out",default="outputs",help="Directorio de salida")
     p.add_argument("--no-plots",action="store_true",help="Omitir generación de gráficos")
     p.add_argument("--metrics",nargs="*",help="Subconjunto de métricas base a analizar (default: todas)")
